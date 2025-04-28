@@ -31,4 +31,16 @@ We followed a data-driven process to reveal key patterns between payment types a
 - 🔒 Ensure seamless and secure card transaction options.
 - 🎯 Encourage card payments to boost driver earnings and satisfaction.
 
+- 
+![Image](https://github.com/user-attachments/assets/c7b00a58-e5a4-4305-b1a0-24a221e91dc9)
+
+![Image](https://github.com/user-attachments/assets/e8b67817-d558-4eb9-8b81-bfcb9adf653d)
+
+![Image](https://github.com/user-attachments/assets/1d11ddb3-3be4-4148-a3ff-7786b52d585e)
+
+![Image](https://github.com/user-attachments/assets/e6e535f5-bc78-4156-9a01-a2bcb2f8c0fd)
+
+![Image](https://github.com/user-attachments/assets/04c056c1-3b41-42db-95c9-ce727a4a6041)
+
+
 ---
